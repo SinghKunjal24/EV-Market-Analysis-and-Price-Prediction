@@ -3,17 +3,6 @@
 ## 📖 Introduction
 The electric vehicle (EV) industry is evolving rapidly, and **data-driven insights** can optimize business strategies. This project leverages **machine learning models** to predict **EV prices**, helping businesses set competitive pricing and identify key factors influencing EV adoption.
 
-## 📂 Project Structure
-```
-📁 EV_Prediction
-│-- 📂 data                  # Dataset files
-│-- 📂 notebooks             # Jupyter notebooks for analysis
-│-- 📂 models                # Saved ML models
-│-- 📜 requirements.txt      # Required dependencies
-│-- 📜 train.py              # Model training script
-│-- 📜 README.md             # Project documentation
-```
-
 ## 🛠 Installation
 Clone this repository and install the dependencies:
 ```bash
